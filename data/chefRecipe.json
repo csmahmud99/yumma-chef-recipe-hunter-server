@@ -1,0 +1,284 @@
+[
+    {
+        "chefId": 1,
+        "chefName": "Md. Abdul Hai",
+        "chefPictureUrl": "https://i.pravatar.cc/150?img=64",
+        "chefBio": "Passionate about creating unique flavors, John brings a modern twist to classic recipes.",
+        "yearsOfExperience": 10,
+        "numRecipes": 3,
+        "numLikes": 500,
+        "recipes": [
+            {
+                "recipeName": "Grilled Salmon",
+                "ingredients": [
+                    "salmon fillet",
+                    "lemon",
+                    "olive oil",
+                    "salt",
+                    "pepper"
+                ],
+                "cookingMethod": "Preheat grill. Season salmon with salt, pepper, and lemon juice. Grill for 10 minutes.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Pesto Pasta",
+                "ingredients": [
+                    "pasta",
+                    "basil leaves",
+                    "pine nuts",
+                    "garlic",
+                    "Parmesan cheese"
+                ],
+                "cookingMethod": "Cook pasta. Blend basil, pine nuts, garlic, and Parmesan cheese to make pesto sauce. Toss with cooked pasta.",
+                "rating": 4.2
+            },
+            {
+                "recipeName": "Chocolate Lava Cake",
+                "ingredients": [
+                    "dark chocolate",
+                    "butter",
+                    "eggs",
+                    "sugar",
+                    "flour"
+                ],
+                "cookingMethod": "Melt chocolate and butter. Whisk eggs and sugar. Combine all ingredients. Bake for 12 minutes.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "chefId": 2,
+        "chefName": "Abdul Goni Mia",
+        "chefPictureUrl": "https://i.pravatar.cc/150?img=13",
+        "chefBio": "Emily's passion for local and seasonal ingredients shines through her creations.",
+        "yearsOfExperience": 8,
+        "numRecipes": 3,
+        "numLikes": 800,
+        "recipes": [
+            {
+                "recipeName": "Caprese Salad",
+                "ingredients": [
+                    "tomatoes",
+                    "mozzarella cheese",
+                    "basil leaves",
+                    "olive oil",
+                    "balsamic vinegar"
+                ],
+                "cookingMethod": "Slice tomatoes and mozzarella. Arrange on a plate with basil leaves. Drizzle with olive oil and balsamic vinegar.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Lemon Herb Roasted Chicken",
+                "ingredients": [
+                    "chicken",
+                    "lemon",
+                    "garlic",
+                    "rosemary",
+                    "thyme"
+                ],
+                "cookingMethod": "Rub chicken with lemon, garlic, and herbs. Roast in the oven for 1 hour.",
+                "rating": 4.4
+            },
+            {
+                "recipeName": "Raspberry Cheesecake",
+                "ingredients": [
+                    "cream cheese",
+                    "graham cracker crumbs",
+                    "raspberries",
+                    "sugar",
+                    "vanilla extract"
+                ],
+                "cookingMethod": "Mix cream cheese, sugar, and vanilla. Pour over a graham cracker crust. Top with raspberries. Chill for 2 hours.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "chefId": 3,
+        "chefName": "Alamgir Miah",
+        "chefPictureUrl": "https://i.pravatar.cc/150?img=17",
+        "chefBio": "Emily's passion for local and seasonal ingredients shines through her creations.",
+        "yearsOfExperience": 8,
+        "numRecipes": 3,
+        "numLikes": 800,
+        "recipes": [
+            {
+                "recipeName": "Caprese Salad",
+                "ingredients": [
+                    "tomatoes",
+                    "mozzarella cheese",
+                    "basil leaves",
+                    "olive oil",
+                    "balsamic vinegar"
+                ],
+                "cookingMethod": "Slice tomatoes and mozzarella. Arrange on a plate with basil leaves. Drizzle with olive oil and balsamic vinegar.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Lemon Herb Roasted Chicken",
+                "ingredients": [
+                    "chicken",
+                    "lemon",
+                    "garlic",
+                    "rosemary",
+                    "thyme"
+                ],
+                "cookingMethod": "Rub chicken with lemon, garlic, and herbs. Roast in the oven for 1 hour.",
+                "rating": 4.4
+            },
+            {
+                "recipeName": "Raspberry Cheesecake",
+                "ingredients": [
+                    "cream cheese",
+                    "graham cracker crumbs",
+                    "raspberries",
+                    "sugar",
+                    "vanilla extract"
+                ],
+                "cookingMethod": "Mix cream cheese, sugar, and vanilla. Pour over a graham cracker crust. Top with raspberries. Chill for 2 hours.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "chefId": 4,
+        "chefName": "Barik Hasan",
+        "chefPictureUrl": "https://i.pravatar.cc/150?img=66",
+        "chefBio": "Emily's passion for local and seasonal ingredients shines through her creations.",
+        "yearsOfExperience": 8,
+        "numRecipes": 3,
+        "numLikes": 800,
+        "recipes": [
+            {
+                "recipeName": "Caprese Salad",
+                "ingredients": [
+                    "tomatoes",
+                    "mozzarella cheese",
+                    "basil leaves",
+                    "olive oil",
+                    "balsamic vinegar"
+                ],
+                "cookingMethod": "Slice tomatoes and mozzarella. Arrange on a plate with basil leaves. Drizzle with olive oil and balsamic vinegar.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Lemon Herb Roasted Chicken",
+                "ingredients": [
+                    "chicken",
+                    "lemon",
+                    "garlic",
+                    "rosemary",
+                    "thyme"
+                ],
+                "cookingMethod": "Rub chicken with lemon, garlic, and herbs. Roast in the oven for 1 hour.",
+                "rating": 4.4
+            },
+            {
+                "recipeName": "Raspberry Cheesecake",
+                "ingredients": [
+                    "cream cheese",
+                    "graham cracker crumbs",
+                    "raspberries",
+                    "sugar",
+                    "vanilla extract"
+                ],
+                "cookingMethod": "Mix cream cheese, sugar, and vanilla. Pour over a graham cracker crust. Top with raspberries. Chill for 2 hours.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "chefId": 5,
+        "chefName": "Abdur Rahim Miaji",
+        "chefPictureUrl": "https://i.pravatar.cc/150?img=56",
+        "chefBio": "Emily's passion for local and seasonal ingredients shines through her creations.",
+        "yearsOfExperience": 8,
+        "numRecipes": 3,
+        "numLikes": 800,
+        "recipes": [
+            {
+                "recipeName": "Caprese Salad",
+                "ingredients": [
+                    "tomatoes",
+                    "mozzarella cheese",
+                    "basil leaves",
+                    "olive oil",
+                    "balsamic vinegar"
+                ],
+                "cookingMethod": "Slice tomatoes and mozzarella. Arrange on a plate with basil leaves. Drizzle with olive oil and balsamic vinegar.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Lemon Herb Roasted Chicken",
+                "ingredients": [
+                    "chicken",
+                    "lemon",
+                    "garlic",
+                    "rosemary",
+                    "thyme"
+                ],
+                "cookingMethod": "Rub chicken with lemon, garlic, and herbs. Roast in the oven for 1 hour.",
+                "rating": 4.4
+            },
+            {
+                "recipeName": "Raspberry Cheesecake",
+                "ingredients": [
+                    "cream cheese",
+                    "graham cracker crumbs",
+                    "raspberries",
+                    "sugar",
+                    "vanilla extract"
+                ],
+                "cookingMethod": "Mix cream cheese, sugar, and vanilla. Pour over a graham cracker crust. Top with raspberries. Chill for 2 hours.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "chefId": 6,
+        "chefName": "Abdul Karim Sadik",
+        "chefPictureUrl": "https://i.pravatar.cc/150?img=14",
+        "chefBio": "Emily's passion for local and seasonal ingredients shines through her creations.",
+        "yearsOfExperience": 8,
+        "numRecipes": 3,
+        "numLikes": 800,
+        "recipes": [
+            {
+                "recipeName": "Caprese Salad",
+                "ingredients": [
+                    "tomatoes",
+                    "mozzarella cheese",
+                    "basil leaves",
+                    "olive oil",
+                    "balsamic vinegar"
+                ],
+                "cookingMethod": "Slice tomatoes and mozzarella. Arrange on a plate with basil leaves. Drizzle with olive oil and balsamic vinegar.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Lemon Herb Roasted Chicken",
+                "ingredients": [
+                    "chicken",
+                    "lemon",
+                    "garlic",
+                    "rosemary",
+                    "thyme"
+                ],
+                "cookingMethod": "Rub chicken with lemon, garlic, and herbs. Roast in the oven for 1 hour.",
+                "rating": 4.4
+            },
+            {
+                "recipeName": "Raspberry Cheesecake",
+                "ingredients": [
+                    "cream cheese",
+                    "graham cracker crumbs",
+                    "raspberries",
+                    "sugar",
+                    "vanilla extract"
+                ],
+                "cookingMethod": "Mix cream cheese, sugar, and vanilla. Pour over a graham cracker crust. Top with raspberries. Chill for 2 hours.",
+                "rating": 4.9
+            }
+        ]
+    }
+]
