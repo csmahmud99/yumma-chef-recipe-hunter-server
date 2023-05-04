@@ -5,7 +5,7 @@
         "chefPictureUrl": "https://i.pravatar.cc/150?img=64",
         "chefBio": "Passionate about creating unique flavors, John brings a modern twist to classic recipes.",
         "yearsOfExperience": 10,
-        "numRecipes": 3,
+        "numRecipes": 10,
         "numLikes": 500,
         "recipes": [
             {
@@ -52,7 +52,7 @@
         "chefPictureUrl": "https://i.pravatar.cc/150?img=13",
         "chefBio": "Emily's passion for local and seasonal ingredients shines through her creations.",
         "yearsOfExperience": 8,
-        "numRecipes": 3,
+        "numRecipes": 20,
         "numLikes": 800,
         "recipes": [
             {
@@ -99,7 +99,7 @@
         "chefPictureUrl": "https://i.pravatar.cc/150?img=17",
         "chefBio": "Emily's passion for local and seasonal ingredients shines through her creations.",
         "yearsOfExperience": 8,
-        "numRecipes": 3,
+        "numRecipes": 15,
         "numLikes": 800,
         "recipes": [
             {
@@ -146,7 +146,7 @@
         "chefPictureUrl": "https://i.pravatar.cc/150?img=66",
         "chefBio": "Emily's passion for local and seasonal ingredients shines through her creations.",
         "yearsOfExperience": 8,
-        "numRecipes": 3,
+        "numRecipes": 18,
         "numLikes": 800,
         "recipes": [
             {
@@ -193,7 +193,7 @@
         "chefPictureUrl": "https://i.pravatar.cc/150?img=56",
         "chefBio": "Emily's passion for local and seasonal ingredients shines through her creations.",
         "yearsOfExperience": 8,
-        "numRecipes": 3,
+        "numRecipes": 22,
         "numLikes": 800,
         "recipes": [
             {
@@ -240,7 +240,7 @@
         "chefPictureUrl": "https://i.pravatar.cc/150?img=14",
         "chefBio": "Emily's passion for local and seasonal ingredients shines through her creations.",
         "yearsOfExperience": 8,
-        "numRecipes": 3,
+        "numRecipes": 23,
         "numLikes": 800,
         "recipes": [
             {
